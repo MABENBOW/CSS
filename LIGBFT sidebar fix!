@@ -36,7 +36,7 @@ Azure blue 2 - used for background of submit button, background of subscribe but
 #header .pagename a:hover, body.with-listing-chooser #header .pagename a:hover {
     color: #6d6f72;
 }
-/* UMON CORE*/
+/* BASE! DO NOT ALTER*/
 
 *, *:after, *:before {
     border-radius: 0!important;
@@ -370,11 +370,11 @@ div.content:hover:after {
     display: inline;
 }
 div.titlebox span.number:after {
-    content: " readers, "}
+    content: " banned users, "}
 .titlebox .users-online .number:before {
     content: ""}
 .titlebox .users-online .number:after {
-    content: " here"}
+    content: " on the loligotbanned4this hotline"}
 .titlebox .users-online, .titlebox .number {
     cursor: text;
 }
